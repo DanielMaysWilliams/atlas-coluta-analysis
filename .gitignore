@@ -1,0 +1,12 @@
+*.csv
+*.tar.gz
+*.pyc
+/Data/Processed/Pulses/*
+/Data/Raw/*
+/Physics/Blocks_Final/*
+/Physics/OFCs/Amplitudes/*
+/Physics/OFCs
+/Physics/Filter_Output
+/Plotting/PlotsSaved/*
+.DS_Store
+.idea/
