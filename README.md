@@ -2,7 +2,7 @@
 
 Framework for analyzing the performance of the COLUTAv2 ADC
 
-download with: git clone -b hdf5_processing https://gitlab.cern.ch/alkahn/COLUTAAnalysis.git
+download with: git clone https://github.com/DanielMaysWilliams/atlas-coluta-analysis.git
 
 This package is used to analyze the hdf5 outputs of the COLUTAv2 GUI
 
